@@ -58,13 +58,13 @@
 
 <p align="center">
   <a href="https://github.com/rumman6677">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminh63&theme=radical&border=7F3FBF&background=0D1117" alt="Md. Rumman Hasan's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumman6677&theme=radical&border=7F3FBF&background=0D1117" alt="Md. Rumman Hasan's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rumman6677">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaminh63&theme=radical" alt="Md. Rumman Hasan's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rumman6677&theme=radical" alt="Md. Rumman Hasan's GitHub Contribution"/>
   </a>
 </p>
 
